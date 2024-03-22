@@ -1,0 +1,139 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+    list-style-type: none !important;
+    text-decoration: none !important;
+    /* outline: 1px solid red !important; */
+}
+.max-w-1140{
+    max-width: 1140px;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.bg-image{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../image/Mask\ group.png);
+}
+.min-vh-100{
+    min-height: 100vh;
+}
+.d-flex{
+    display: flex;
+}
+.j-c-b{
+    justify-content: space-between;
+}
+.color_hover:hover{
+    color: white;
+}
+.home{
+    font-weight: 400;
+    font-style: 16px;
+    line-height: 24px;
+    color: #B5B7B8;
+
+}
+.gap-46{
+    gap: 46px;
+}
+.a-i-c{
+    align-items: center;
+}
+.pt-29{
+    padding-top: 29px;
+}
+.gap-8{
+    gap: 8px;
+}
+.btn_1{
+    color: white;
+    background: #FFC20A;
+    font-weight: 400;
+    font-style: 16px;
+    line-height: 23px;
+    padding: 14px 32px;
+    border-radius: 36px;
+}
+.gap-32{
+    gap: 32px;
+}
+.span_1{
+    color: #3B945E;
+}
+.heading_1{
+    font-weight: 700; font-size: 64px;
+    line-height: 76px;
+    color: white;
+    max-width: 604px;
+
+}
+.small_heading{
+    font-weight: 600;font-style: 16px;
+    line-height: 24px;
+    color: white;
+}
+.para_1{
+    max-width: 631px;
+    font-weight: 400; font-style: 16px;
+    line-height: 24px;color: white;
+}
+.pt-16{
+    padding-top: 16px;
+}
+.j-c-c{
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.box_1{
+    max-width: 1440px;
+    height: 170px;
+    width: 100%;
+    background: linear-gradient(180deg, #030D01 0%, rgba(3, 13, 1, 0) 100%);
+
+
+    position: absolute;
+bottom: 0;
+left: 0;
+}
+.position_relative{
+    position: relative;
+}
+.gap-60{
+    gap: 60px;
+}
+ .row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    margin-right: -12px;
+ }
+ .col-6{
+    width: 60%;
+    padding-left: 12px;
+    padding-right: 12px;
+ }
+ .col-4{
+    width: 41.66%;
+    padding-left: 12px;
+    padding-right: 12px;
+
+ }
+ .col-8{
+    width: 58.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+ }
+ .pt-72{
+    padding-bottom: 72px;
+ }
